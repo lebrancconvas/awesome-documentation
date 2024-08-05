@@ -59,3 +59,10 @@
   - [ThreeJS](https://threejs.org/docs/) ([Github](https://github.com/mrdoob/three.js))
   - [Phaser](https://newdocs.phaser.io/docs/3.80.0) ([Github](https://github.com/phaserjs/phaser))
   - [Kaboom.js](https://kaboomjs.com/) ([Github](https://github.com/replit/kaboom))
+- Go
+  - [Ebiten](https://ebitengine.org/en/documents) ([Github](https://github.com/hajimehoshi/ebiten)) ([Go Package](https://pkg.go.dev/github.com/hajimehoshi/ebiten/v2))
+  - [Pixel](https://pkg.go.dev/github.com/faiface/pixel) ([Github](https://github.com/faiface/pixel)) ([Go Package](https://pkg.go.dev/github.com/faiface/pixel))
+- Rust
+  - [Bevy](https://docs.rs/bevy/latest/bevy) ([Github](https://github.com/bevyengine/bevy))
+- Lua
+  - [Love2D](https://love2d.org/wiki/Getting_Started) ([Github](https://github.com/love2d/love))
