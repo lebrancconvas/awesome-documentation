@@ -6,9 +6,9 @@
 - [Vue](https://vuejs.org/guide)
 - [Next](https://nextjs.org/docs)
 - [Nuxt](https://nuxt.com/docs)
-- [Angular](https://angular.dev/overview) [Tutorial](https://angular.dev/tutorials)
-- [Svelte](https://svelte.dev/docs) [Tutorial](https://learn.svelte.dev/tutorial)
-- [SvelteKit](https://kit.svelte.dev/docs) [Tutorial](https://learn.svelte.dev/tutorial/introducing-sveltekit)
+- [Angular](https://angular.dev/overview) ([Tutorial](https://angular.dev/tutorials))
+- [Svelte](https://svelte.dev/docs) ([Tutorial](https://learn.svelte.dev/tutorial))
+- [SvelteKit](https://kit.svelte.dev/docs) ([Tutorial](https://learn.svelte.dev/tutorial/introducing-sveltekit))
 - [Backbone.js](https://backbonejs.org/) 
 - [ElysiaJS](https://elysiajs.com/at-glance.html)
 
