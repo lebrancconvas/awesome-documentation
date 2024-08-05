@@ -2,15 +2,15 @@
 
 ## Web Development 
 
-- [React](https://react.dev/reference/react)
+- [React](https://react.dev/reference/react) ([Github](https://github.com/facebook/react))
 - [Vue](https://vuejs.org/guide)
-- [Next](https://nextjs.org/docs)
-- [Nuxt](https://nuxt.com/docs)
-- [Angular](https://angular.dev/overview) ([Tutorial](https://angular.dev/tutorials))
-- [Svelte](https://svelte.dev/docs) ([Tutorial](https://learn.svelte.dev/tutorial))
-- [SvelteKit](https://kit.svelte.dev/docs) ([Tutorial](https://learn.svelte.dev/tutorial/introducing-sveltekit))
-- [Backbone.js](https://backbonejs.org/) 
-- [ElysiaJS](https://elysiajs.com/at-glance.html)
+- [Next](https://nextjs.org/docs) ([Github](https://github.com/vercel/next.js))
+- [Nuxt](https://nuxt.com/docs) ([Github](https://github.com/nuxt/nuxt))
+- [Angular](https://angular.dev/overview) ([Github](https://github.com/angular/angular)) ([Tutorial](https://angular.dev/tutorials))
+- [Svelte](https://svelte.dev/docs) ([Github](https://github.com/sveltejs/svelte)) ([Tutorial](https://learn.svelte.dev/tutorial))
+- [SvelteKit](https://kit.svelte.dev/docs) ([Github](https://github.com/sveltejs/kit)) ([Tutorial](https://learn.svelte.dev/tutorial/introducing-sveltekit))
+- [Backbone.js](https://backbonejs.org/) ([Github](https://github.com/jashkenas/backbone))
+- [ElysiaJS](https://elysiajs.com/at-glance.html) ([Github](https://github.com/elysiajs/elysia))
 
 ## Web Scraping / Web Automation
 
