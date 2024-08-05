@@ -26,6 +26,7 @@
   - [ExpressJS](https://expressjs.com/en/5x/api.html) ([Github](https://github.com/expressjs/express))
   - [ElysiaJS](https://elysiajs.com/at-glance.html) ([Github](https://github.com/elysiajs/elysia))
 - Go
+  - [net/http](https://pkg.go.dev/net/http) ([Github](https://github.com/golang/go/tree/master/src/net/http)) ([Go Package](https://pkg.go.dev/net/http))
   - [Echo](https://echo.labstack.com/docs) ([Github](https://github.com/labstack/echo)) ([Go Package](https://pkg.go.dev/github.com/labstack/echo/v4))
   - [Gin](https://gin-gonic.com/docs/) ([Github](https://github.com/gin-gonic/gin)) ([Go Package](https://pkg.go.dev/github.com/gin-gonic/gin))
   - [Fiber](https://docs.gofiber.io/) ([Github](https://github.com/gofiber/fiber)) ([Go Package](https://pkg.go.dev/github.com/gofiber/fiber/v3))
