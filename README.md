@@ -49,3 +49,13 @@
 - [Cheerio](https://cheerio.js.org/docs) ([Github](https://github.com/cheeriojs/cheerio))
 - [Cypress](https://docs.cypress.io/) ([Github](https://github.com/cypress-io/cypress))
 - [Selenium](https://www.selenium.dev/documentation) ([Github](https://github.com/SeleniumHQ/selenium))
+
+## Game Development / Computer Graphics
+
+- JavaScript / TypeScript
+  - [HTML Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  - [P5.js](https://p5js.org/reference) ([Github](https://github.com/processing/p5.js))
+  - [PixiJS](https://pixijs.com/8.x/guides) ([Github](https://github.com/pixijs/pixijs))
+  - [ThreeJS](https://threejs.org/docs/) ([Github](https://github.com/mrdoob/three.js))
+  - [Phaser](https://newdocs.phaser.io/docs/3.80.0) ([Github](https://github.com/phaserjs/phaser))
+  - [Kaboom.js](https://kaboomjs.com/) ([Github](https://github.com/replit/kaboom))
