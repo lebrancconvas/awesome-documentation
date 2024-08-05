@@ -14,8 +14,8 @@
 
 ## Web Scraping / Web Automation
 
-- [Playwright](https://playwright.dev/docs/intro)
-- [Puppeteer](https://pptr.dev/docs)
-- [Cheerio](https://cheerio.js.org/docs)
-- [Cypress](https://docs.cypress.io/)
-- [Selenium](https://www.selenium.dev/documentation)
+- [Playwright](https://playwright.dev/docs/intro) ([Github](https://github.com/microsoft/playwright))
+- [Puppeteer](https://pptr.dev/docs) ([Github](https://github.com/puppeteer/puppeteer))
+- [Cheerio](https://cheerio.js.org/docs) ([Github](https://github.com/cheeriojs/cheerio))
+- [Cypress](https://docs.cypress.io/) ([Github](https://github.com/cypress-io/cypress))
+- [Selenium](https://www.selenium.dev/documentation) ([Github](https://github.com/SeleniumHQ/selenium))
