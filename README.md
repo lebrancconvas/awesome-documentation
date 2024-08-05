@@ -21,7 +21,7 @@
 - [Ant Design](https://ant.design/components/overview/) ([Github](https://github.com/ant-design/ant-design))
 - [Semantic UI](https://semantic-ui.com/introduction/getting-started.html) ([Github](https://github.com/semantic-org/semantic-ui))
 
-### Back-End / API 
+### Back-End / API / Full-Stack
 - JavaScript / TypeScript
   - [ExpressJS](https://expressjs.com/en/5x/api.html) ([Github](https://github.com/expressjs/express))
   - [ElysiaJS](https://elysiajs.com/at-glance.html) ([Github](https://github.com/elysiajs/elysia))
@@ -30,6 +30,17 @@
   - [Echo](https://echo.labstack.com/docs) ([Github](https://github.com/labstack/echo)) ([Go Package](https://pkg.go.dev/github.com/labstack/echo/v4))
   - [Gin](https://gin-gonic.com/docs/) ([Github](https://github.com/gin-gonic/gin)) ([Go Package](https://pkg.go.dev/github.com/gin-gonic/gin))
   - [Fiber](https://docs.gofiber.io/) ([Github](https://github.com/gofiber/fiber)) ([Go Package](https://pkg.go.dev/github.com/gofiber/fiber/v3))
+- Rust
+  - [Axum](https://docs.rs/axum/latest/axum) ([Github](https://github.com/tokio-rs/axum))
+  - [Actix](https://docs.rs/actix-web/latest/actix_web/) ([Github](https://github.com/actix/actix-web))
+- PHP
+  - [Laravel](https://laravel.com/docs/11.x) ([Github](https://github.com/laravel/framework))
+- Ruby
+  - [Ruby on Rails](https://guides.rubyonrails.org/) ([Github](https://github.com/rails/rails))
+- Python
+  - [Django](https://docs.djangoproject.com/en/5.0) ([Github](https://github.com/django/django))
+  - [Flask](https://flask.palletsprojects.com/en/3.0.x/) ([Github](https://github.com/pallets/flask))
+  - [FastAPI](https://fastapi.tiangolo.com/) ([Github](https://github.com/fastapi/fastapi))
 
 ## Web Scraping / Web Automation
 
