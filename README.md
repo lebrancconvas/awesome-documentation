@@ -22,22 +22,22 @@
 - [Semantic UI](https://semantic-ui.com/introduction/getting-started.html) ([Github](https://github.com/semantic-org/semantic-ui))
 
 ### Back-End / API / Full-Stack
-- JavaScript / TypeScript
+- **JavaScript / TypeScript**
   - [ExpressJS](https://expressjs.com/en/5x/api.html) ([Github](https://github.com/expressjs/express))
   - [ElysiaJS](https://elysiajs.com/at-glance.html) ([Github](https://github.com/elysiajs/elysia))
-- Go
+- **Go**
   - [net/http](https://pkg.go.dev/net/http) ([Github](https://github.com/golang/go/tree/master/src/net/http)) ([Go Package](https://pkg.go.dev/net/http))
   - [Echo](https://echo.labstack.com/docs) ([Github](https://github.com/labstack/echo)) ([Go Package](https://pkg.go.dev/github.com/labstack/echo/v4))
   - [Gin](https://gin-gonic.com/docs/) ([Github](https://github.com/gin-gonic/gin)) ([Go Package](https://pkg.go.dev/github.com/gin-gonic/gin))
   - [Fiber](https://docs.gofiber.io/) ([Github](https://github.com/gofiber/fiber)) ([Go Package](https://pkg.go.dev/github.com/gofiber/fiber/v3))
-- Rust
+- **Rust**
   - [Axum](https://docs.rs/axum/latest/axum) ([Github](https://github.com/tokio-rs/axum))
   - [Actix](https://docs.rs/actix-web/latest/actix_web/) ([Github](https://github.com/actix/actix-web))
-- PHP
+- **PHP**
   - [Laravel](https://laravel.com/docs/11.x) ([Github](https://github.com/laravel/framework))
-- Ruby
+- **Ruby**
   - [Ruby on Rails](https://guides.rubyonrails.org/) ([Github](https://github.com/rails/rails))
-- Python
+- **Python**
   - [Django](https://docs.djangoproject.com/en/5.0) ([Github](https://github.com/django/django))
   - [Flask](https://flask.palletsprojects.com/en/3.0.x/) ([Github](https://github.com/pallets/flask))
   - [FastAPI](https://fastapi.tiangolo.com/) ([Github](https://github.com/fastapi/fastapi))
@@ -52,17 +52,38 @@
 
 ## Game Development / Computer Graphics
 
-- JavaScript / TypeScript
+- **JavaScript / TypeScript**
   - [HTML Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   - [P5.js](https://p5js.org/reference) ([Github](https://github.com/processing/p5.js))
   - [PixiJS](https://pixijs.com/8.x/guides) ([Github](https://github.com/pixijs/pixijs))
   - [ThreeJS](https://threejs.org/docs/) ([Github](https://github.com/mrdoob/three.js))
   - [Phaser](https://newdocs.phaser.io/docs/3.80.0) ([Github](https://github.com/phaserjs/phaser))
   - [Kaboom.js](https://kaboomjs.com/) ([Github](https://github.com/replit/kaboom))
-- Go
+- **Go**
   - [Ebiten](https://ebitengine.org/en/documents) ([Github](https://github.com/hajimehoshi/ebiten)) ([Go Package](https://pkg.go.dev/github.com/hajimehoshi/ebiten/v2))
   - [Pixel](https://pkg.go.dev/github.com/faiface/pixel) ([Github](https://github.com/faiface/pixel)) ([Go Package](https://pkg.go.dev/github.com/faiface/pixel))
-- Rust
+- **Rust**
   - [Bevy](https://docs.rs/bevy/latest/bevy) ([Github](https://github.com/bevyengine/bevy))
-- Lua
+- **Lua**
   - [Love2D](https://love2d.org/wiki/Getting_Started) ([Github](https://github.com/love2d/love))
+
+## Data Science & Artificial Intelligence
+
+### Data Analysis and Visualization
+- [NumPy](https://numpy.org/doc) ([Github](https://github.com/numpy/numpy))
+- [Pandas](https://pandas.pydata.org/docs) ([Github](https://github.com/pandas-dev/pandas))
+- [Matplotlib](https://matplotlib.org/stable/index.html) ([Github](https://github.com/matplotlib/matplotlib))
+- [Seaborn](https://seaborn.pydata.org/) ([Github](https://github.com/mwaskom/seaborn))
+
+### Artificial Intelligence, Machine Learning, and Deep Learning / Neural Network
+- [PyTorch](https://pytorch.org/docs) ([Github](https://github.com/pytorch/pytorch))
+- [Scikit-Learn](https://scikit-learn.org/stable/) ([Github](https://github.com/scikit-learn/scikit-learn))
+
+### Generative AI
+- [OpenAI API](https://platform.openai.com/docs) ([Cookbook](https://cookbook.openai.com/))
+- [Claude API (Anthropic)](https://docs.anthropic.com/)
+
+### Large Language Models (LLMs)
+- [Ollama](https://github.com/ollama/ollama/tree/main/docs) ([Github](https://github.com/ollama/ollama))
+- **JavaScript / TypeScript**
+  - [LangChain.js](https://js.langchain.com/v0.2/docs) ([Github](https://github.com/langchain-ai/langchainjs))
